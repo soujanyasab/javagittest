@@ -13,7 +13,7 @@ public Sub() {
 public int sub()
 {
 	System.out.println("subtraction");
-	return arg1-arg2;
+	return arg1+arg2;
 }
 	public static void main(String[] args) {
 		Sub obj=new Sub();
@@ -23,5 +23,6 @@ public int sub()
 		// TODO Auto-generated method stub
 
 	}
+	
 
 }
