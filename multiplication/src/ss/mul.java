@@ -24,5 +24,3 @@ public class mul {
 		System.out.println("output of multiplicationtion" +obj.mul());
 	}
 }
-
-/* Added comment*/
