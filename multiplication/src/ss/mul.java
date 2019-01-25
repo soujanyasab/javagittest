@@ -25,3 +25,4 @@ public class mul {
 	}
 }
 
+/* Added comment*/
